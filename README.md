@@ -1,2 +1,3 @@
 # Demo_Rust
-demo project for understanding Rust lang from scratch
+
+Demo project for understanding Rust lang from scratch
